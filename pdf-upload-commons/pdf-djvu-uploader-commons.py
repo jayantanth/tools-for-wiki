@@ -110,23 +110,22 @@ def upload_pdf_file(pdf_file):
 | Printer      = 
 | Date         = 
 | City         = 
-| Language     = தமிழ்
-| Description  = {{ta|1=தமிழக அரசால் அறிவிக்கப்பட்ட நாட்டுடைமை நூல்களில் இதுவும் ஒன்று.}}
-| Source       = {{Institution:Tamil Virtual Academy}}
+| Language     = Bengali
+| Description  = 
+| Source       = 
 | Image        =  {{PAGENAME}}
 | Image page   = 
-| Permission   = [[File:Tamil-Nadu-Nationalized-Books-Public-Domain-Declaration.jpg|thumb|left|Letter from Tamil Virtual Academy declaring books nationalized by Tamil Nadu government and released under Creative Commons CC0 1.0 Universal Public Domain Dedication license]]
+| Permission   = 
 | Other versions = 
-| Wikisource   =s:ta:Index:{{PAGENAME}}
+| Wikisource   =s:bn:Index:{{PAGENAME}}
 | Homecat      = 
 }}
 
 =={{int:license-header}}==
-{{cc-zero}}
+{{PD-India}}
+{{PD-1923}}
 
-[[Category:Books in Tamil]]
-[[Category:PDF files in Tamil with CC0 1.0 license]]
-[[Category:Books from Tamil Virtual Academy]]
+[[Category:Books in Bengali]]
 
 """
 		wikidata = wikidata_part1 + "| Title        = " + filename(pdf_file) + wikidata_part2
